@@ -90,7 +90,7 @@ clean = {}
 autoclean = []
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://cloud.mongodb.com."
+    "START_IMG_URL", "https://te.legra.ph/file/407ce4c57a645c11f65c0.jpg"
 )
 PING_IMG_URL = getenv(
     "PING_IMG_URL", "https://te.legra.ph/file/f70081ed82879c1a24068.jpg"
